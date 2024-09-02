@@ -6,7 +6,7 @@ let canvasHeight = 600;
 
 const customSymbols = {
     "Happy": "./happy.svg",
-    "Sad": "./sad2.svg",
+    "Sad": "./sad.svg",
     "Angry": "./angry.svg"
 };
 
