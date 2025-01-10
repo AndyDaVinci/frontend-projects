@@ -1,0 +1,34 @@
+*{
+    /* border: 1px solid grey; */
+}
+html, body{
+    background:linear-gradient(45deg, rgba(185, 218, 173, 0.8), rgba(129, 168, 218, 0.2));
+    margin: 0px;
+}
+
+.card{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card .title{
+    font-size: large;
+    margin-bottom: 15px;
+}
+
+.card #slider_bird{
+    position: relative;
+    left: 260px;
+    bottom: 450px
+    /* background-color: #ccc */
+}
+
+
+#myCanvas{
+    /* box-shadow: 3px 3px 7px 2px rgba(87, 92, 85, 0.8); */
+    /* border-radius: 20px; */
+}
